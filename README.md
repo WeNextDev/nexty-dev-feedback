@@ -4,8 +4,8 @@ Nexty is a feature-rich full-stack SaaS application template built with Next.js 
 
 🚀 Get Started Now 👉: https://nexty.dev
 
-> If you encounter any issues, please contact me for support:
-> Email: hi@nexty.dev
-> Twitter (中文): https://x.com/weijunext
-> Twitter (English): https://x.com/judewei_dev
-> 微信: bigye_chengpu
+> If you encounter any issues, please contact me for support:  
+> Email: hi@nexty.dev  
+> Twitter (中文): https://x.com/weijunext  
+> Twitter (English): https://x.com/judewei_dev  
+> 微信: bigye_chengpu  
